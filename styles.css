@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    margin-top: 0;
+    font-family: 'Nerko One', cursive;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.prvi{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 50px;
+}
+.drugi{
+    background-color: #c6f3f3;
+}
+.treci{
+    background-color: #a3ebeb;
+}
+.gornjioblak{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.donjioblak{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
